@@ -5,5 +5,5 @@ format: jb-book
 root: intro
 chapters:
 - file: PSD_proposal
-- file: notebooks
-- file: markdown-notebooks
+# - file: notebooks
+# - file: markdown-notebooks
